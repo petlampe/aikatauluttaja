@@ -7,8 +7,8 @@
 * Käyttäjä pystyy etsimään omia ryhmiä ja aikatauluja hakusanalla.
 * Käyttäjäsivu näyttää missä ryhmissä käyttäjä on jäsenenä ja kunkin ryhmän luomat aikataulut
 * Käyttäjä pystyy valitsemaan esimerkiksi seuraavia luokitteluja:
-** Kalenteri: Aikataulun alku-, sekä loppupäivä
-** Ryhmän tyyppi: Urheilu, musiikki, videopelit
+  * Kalenteri: Aikataulun alku-, sekä loppupäivä
+  * Ryhmän tyyppi: Urheilu, musiikki, videopelit
 * Käyttäjä pystyy valitsemaan aikatulusta sopivat päivät ja tunnit. Aikataulussa näkyy mitä muut käyttäjät ovat valinneet.
 
   Sovelluksen pääasiallinen tietokohde on aikataulu ja toissijainen tietokohde on ryhmään liittyminen.
